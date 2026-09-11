@@ -1,5 +1,7 @@
 # Apache HertzBeat on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/apache-hertzbeat?referralCode=YqmMB-&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Self-host [Apache HertzBeat](https://hertzbeat.apache.org), an open-source real-time
 monitoring system. It monitors websites, APIs, databases, operating systems, middleware and
 cloud services without installing agents on the targets, and sends alerts by email, webhook,
